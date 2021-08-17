@@ -1,4 +1,4 @@
 # python
-write a Python program which acfrom math import pi
-r = float(input("Enter the radius of circle:"))
-print("The Area of the circle with radius is :" +str(pi*r*r)).
+write a Python program which acfrom matfrom math import pi
+r = float(input ("Input the radius of the circle : "))
+print ("The area of the circle with radius " + str(r) + " is: " + str(pi * r**2))h import pi
